@@ -156,3 +156,5 @@ python main.py
 - Expand: Click "[Log]" tab
 - Content: API requests, errors, status
 - Colors: Red=error, Green=ok, White=info
+- <img width="362" height="330" alt="image" src="https://github.com/user-attachments/assets/64e14fee-bca7-4470-ae22-a5a3f0f2f84f" />
+
